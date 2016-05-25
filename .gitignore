@@ -1,0 +1,13 @@
+[Bb]in/
+[Ll]ib/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+[Rr]esults/
+[Dd]ocs/
+*.obj
+*.swp
+*.o
+*.so
+
+.idea/
